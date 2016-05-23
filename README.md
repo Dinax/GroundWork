@@ -1,2 +1,2 @@
 # GroundWork
-Projeto de controle de estoque
+Projeto de controle da base de conhecimento
