@@ -1,2 +1,2 @@
-# GroundWork
-Projeto de controle da base de conhecimento
+# Projeto Laboratório de Engenharia
+Projeto do Sistema para restaurante self service
